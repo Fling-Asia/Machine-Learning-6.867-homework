@@ -1,4 +1,4 @@
-# Machine Learning 6.867 Homework
+# Machine Learning using qlearning to simulate lidars on a car
 
 ## Q-Learning Project
 
